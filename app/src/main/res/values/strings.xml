@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">homework 1</string>
+    <string name="button">button</string>
+   <string name="no">Не шуметь</string>
+    <string name="yes">шуметь</string>
+    <string name="off" translatable="false">OFF</string>
+    <string name="on">ON</string>
 </resources>
